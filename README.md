@@ -1,7 +1,7 @@
   - 👋 Hi, I’m Prashant Pokhrel
 - 👀 I’m interested in web develoment and Machine learning
-- 🌱 I’m currently learning Machine learning
-- 💞️ I’m looking to collaborate on app development projects and data analytics projects.
+- 🌱 I’m currently working on simple python projects
+-  💞️ I’m looking to collaborate on app development projects and data analytics projects.
 - 📫 You can contact me at prashantpokhrel40@gmail.com
 
 <!---
